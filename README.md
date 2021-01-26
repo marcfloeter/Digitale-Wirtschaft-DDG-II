@@ -1,5 +1,5 @@
 # Digitale-Wirtschaft-DDG-II
-#Gliederung
+# Gliederung
 1.  Einleitung
     - Motivation und Relevanz des Themas
     - Gründe für die Entscheidung und Entscheidungsprozess (-> Projektübersicht alt)
@@ -15,5 +15,8 @@
     - Auswertung des Gastronomenfragebogens
 4.  Fazit
 
-#Einleitung
+# Einleitung
+# Methode
+# Ergebnisse der Auswertung
+# Fazit
 
