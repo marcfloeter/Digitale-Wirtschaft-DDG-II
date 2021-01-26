@@ -1,19 +1,19 @@
 # Digitale-Wirtschaft-DDG-II
 #Gliederung
-I.Einleitung
-  A.Motivation und Relevanz des Themas
-  B.Gründe für die Entscheidung und Entscheidungsprozess (-> Projektübersicht alt)
-  C.Begriffsglossar
-  D.Forschungsfrage
-II.Methode
-  A.Datenerhebung und Methodenauswahl
-  B.Bereitstellung der Materialien
-  C.Erklärung der Fragebögen
-  D.Erklärung der Analysemethoden
-III.Ergebnisse der Auswertung
-  A.Auswertung des Kundenfragebogens
-  B.Auswertung des Gastronomenfragebogens
-IV.Fazit
+1.Einleitung
+  -Motivation und Relevanz des Themas
+  -Gründe für die Entscheidung und Entscheidungsprozess (-> Projektübersicht alt)
+  -Begriffsglossar
+  -Forschungsfrage
+2.Methode
+  -Datenerhebung und Methodenauswahl
+  -Bereitstellung der Materialien
+  -Erklärung der Fragebögen
+  -Erklärung der Analysemethoden
+3.Ergebnisse der Auswertung
+  -Auswertung des Kundenfragebogens
+  -Auswertung des Gastronomenfragebogens
+4.Fazit
 
 #Einleitung
 
