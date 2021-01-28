@@ -19,7 +19,7 @@
 # Methode
 # Ergebnisse der Auswertung
 ## Kundenforschung
-
+--- | ---
 Anzahl n | 102 Befragte
 
 
