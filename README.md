@@ -1,6 +1,6 @@
 # Digitale-Wirtschaft-DDG-II
 # Gliederung
-I.  Einleitung
+1.  Einleitung
     - Motivation und Relevanz des Themas
     - Gründe für die Entscheidung und Entscheidungsprozess (-> Projektübersicht alt)
     - Begriffsglossar
@@ -18,5 +18,10 @@ I.  Einleitung
 # Einleitung
 # Methode
 # Ergebnisse der Auswertung
+## Kundenforschung
+
+Anzahl n | 102 Befragte
+
+
 # Fazit
 
