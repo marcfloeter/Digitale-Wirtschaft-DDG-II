@@ -35,7 +35,7 @@ Arbeitsmodus seit der Beginn der Coronakrise | 58,8%: Homeoffice ; 26,5%: abwech
 
 ### Analyse der Daten ###
 
-<img src="Abbildungen/Crn_Knf_Abb_1.png">
+![Bottom Text]<img src="Abbildungen/Crn_Knf_Abb_1.png">
 
 Aus Abbildung 1 ist ersichtlich, dass die Mehrheit der Befragten schon vor Beginn der Coronakrise Online-Lieferservices benutzen. Viele von ihnen haben seit Beginn der Coronapandemie Lieferservices häufiger in Anspruch genommen, aber ein Großteil der Intensität der Lieferdienstnutzung änderte sich nach dem Start von Coronapandemie nicht.
 In der Gruppe der Probanden, die vor der Coronakrise keine Lieferservices in Anspruch nahmen, begannen viele von ihnen mit der Nutzung von Lieferservices als die Krise begann. 
