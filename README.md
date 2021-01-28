@@ -20,9 +20,12 @@
 # Ergebnisse der Auswertung
 ## Kundenforschung
 
-n | 102 Befragte
+Parameter | Resultat
 --- | ---
+n | 102 Befragte
 Geschlecht | Weiblich: 62; männlich: 38; keine Angabe: 2
+Alter | 19-66 Jahre (Mean: 27,36)
+
 
 # Fazit
 
