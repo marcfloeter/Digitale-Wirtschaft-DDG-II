@@ -1,6 +1,6 @@
 # Digitale-Wirtschaft-DDG-II
 # Gliederung
-1.  Einleitung
+I.  Einleitung
     - Motivation und Relevanz des Themas
     - Gründe für die Entscheidung und Entscheidungsprozess (-> Projektübersicht alt)
     - Begriffsglossar
