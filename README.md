@@ -19,9 +19,10 @@
 # Methode
 # Ergebnisse der Auswertung
 ## Kundenforschung
---- | ---
-Anzahl n | 102 Befragte
 
+n | 102 Befragte
+--- | ---
+Geschlecht | Weiblich: 62; männlich: 38; keine Angabe: 2
 
 # Fazit
 
