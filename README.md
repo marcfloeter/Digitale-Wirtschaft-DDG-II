@@ -16,7 +16,52 @@
 4.  Fazit
 
 # Einleitung
+Frage:
+Bewirkte die Coronapandemie einen signifikanten Digitalisierungsschub in der Gastronomie?
+
+Motivation und Relevanz:
+Die Relevanz dieser Forschungsfrage zeigt sich im wissenschaftlichen Kontext vor allem im Hinblick auf die Untersuchung der gesellschaftlichen und wirtschaftlichen Effekte der Coronapandemie. Wie hat die Bevölkerung darauf reagiert, dass Restaurants für geraume Zeit schließen mussten? War man bereit nach digital unterstützten Alternativen zu suchen und wurden diese von Seiten der Gastronomen nun häufiger bereitgestellt? 
+Auch aus wirtschaftlicher Perspektive ist das Thema relevant. Die Erforschung dieser Frage zeigt, ob eine Digitalisierung aufgrund der Pandemie als nötig und Gewinnbringend eingeschätzt wurde und wie sich dieser Wirtschaftsbereich digital angepasst hat. Daraus lassen sich nützliche Informationen ziehen, die für die Bewältigung ähnlich kritischer Situationen genutzt werden können.
+Nicht zuletzt hat die Befragung der Bevölkerung zu einem alltäglichen Thema in einer außergewöhnlichen Zeit auch einen historisch dokumentierenden Wert.
+
+Hergang der Themenwahl:
+Diese Forschungsfrage ist vom übergeordneten Thema "Digitale Wirtschaft" abgeleitet. Uns auf den Bereich der Gastronomie zu spezialiseren hatte haupsächlich den Grund, dass es ein greifbares und alltägliches Thema ist, zu dem im Rahmen unserer Möglichkeiten dieses Kurses auch eine angemessene Menge an Daten aufgetrieben werden kann. Weitere Gründe waren selbstverständlich unsere eigene Neugier zu diesem Thema und zuvor genannte generelle Relevanz dieses Themas für verschiedenste Bereiche.
+Der erste Plan, sich auf die Erforschung des neuartigen Konzeptes der "Cloud Kitchen" zu beschränken, wurde aufgrund mangelnder Fakte- und Datenlage folglich auf den gesamten Bereich der Gastronomie erweitert. Der alte und erste Plan ist dennoch hier beigefügt. [HIER LINK ZUM ALTEN PLAN]  
+
+Glossar:
+Zuerst sind ein paar der immer wieder aufgegriffenen Schlagworte dieses Berichtes zu klären.
+
+(Essens-)Lieferdienst: Ein von individuellen Restaurant(ketten) oder restaurantunabhängigen Unternehmen angebotener Service, bei dem Sie ihr Essen online oder per Telefon bestellen können, welcher Ihnen ihr Essen vom Restaurant nach Hause oder an einen anderen vereinbarten Ort liefert 
+
+Takeaway: Bei dieser Methode bestellen Sie sich das Essen entweder vor Ort oder aus der Distanz (online, Telefon), Sie müssen dieses Essen selber beim Restaurant abholen.
+
+Kochbox: Bei einer Kochbox werden ihnen die Zutaten und auch zumeist das Rezept geliefert, das Essen kochen Sie sich dabei selber (z.B. HelloFresh).
+
+Cloud-Kitchen/Dark-Kitchen/Ghost-Kitchen bezieht sich auf Restaurantmodelle, die ihre Speisen in separaten, zum Teil mit anderen Gastronomiebetrieben geteilten Räumlichkeiten (nicht im eigenen Restaurant) zum Mitnehmen oder Liefern zubereiten.
+
+Diese Definitionen sind ebenso in den verwendeten Fragebögen zu finden.
+
+
 # Methode
+
+Datenerhebung:
+Die Datenerhebung erfolgte in dieser Studie in Form zweier eigens konzipierter und anonym beantwortbarer Fragebögen, welche über Google Forms realisiert und per den Studienteilnehmern per Link zugänglich gemacht wurden.
+Der erste Fragebogen richtet sich an Nutzer von Lieferdiensten und erfragt das Verhalten der Kunden, der zweite ist an die Gastronomen gerichtet und erforscht die Veränderung der digital unterstützten Angebote und Dienste in der Gastronomie.
+Die Verbreitung dieser Fragebögen wurde privat per Mail, WhatsApp und Discord sowie durch die das Forum der Medieninformatik der Universität Regensburg durchgeführt.
+
+Gründe für die Wahl der Datenerhebungsmethode:
+Für diese Art der Datenerhebung haben wir uns aus verschiedenen umstandsbedingten Gründen entschieden. Onlinefragebögen sind in der aktuell nach wie vor anhaltenden Lockdownsituation und auch allgemein eine passende Methode um mit vergleichsweise wenig Aufwand eine breite Masse zu befragen. Das ist in unserem Fall besonders wichtig, da dies ein Thema ist, welches auf Kundenseite enorm viele Menschen im Alltag betrifft. Diese Masse kann nicht durch wenige ausgewählte Personen vertreten werden. Es aufgrund der Kontaktbeschränkungen nicht möglich, viele Menschen physisch anzutreffen und die Zeit für diese Forschung eng begrenzt. 
+Ebenso ist die Beantwortung der Fragebögen zeitlich von uns selbst unabhängig. Die Testpersonen können die Bögen ausfüllen wann sie wollen und können, was und noch mehr Flexibilität und mehr Antworten erbracht hat. 
+Ein weiterer Grund für die Wahl der Datenerhebung war die Vermeidung von Datenschutzproblemen. Der Datenschutz wurde über die vollkommen anonyme Gestaltung der Fragebogen garantiert.
+Eine Auswertung anhand bereits existierender Arbeiten und Daten war mangels Forschungsarbeiten und zuverlässiger Quellen zu diesem sehr speziellen und neuen Forschungsgebiet ebenso nicht lohnend.
+
+Detailliertere Beschreibung der Fragebögen:
+Beide Bögen bestehen jeweils aus einem ersten Abschnitt zu demographischen Angaben des Studienteilnehmers, einem Teil mit Grundfragen zum Thema Lieferdienste, Takeway, Bestellmethoden etc. und einem abschließenden Teil zur Beurteilung Themenbezogener Aussagen in Form von Likert-Items.
+Während der Kundenfragebogen im Hauptteil Fragen zur Nutzung von Lieferdiensten, Takeaway und anderen Digitalisierungsaspekten der Gastronomieangebote stellt, befasst sich der Gastronomenfragebogen mit Fragen zum Angebot digitalisierter Angebote in der Gastronomie. Zusätzlich werden im Kundenfragebogen Daten zum Konzept Kochboxen erfasst, während der Gastronomenfragebogen stattdessen das ebenso neue Konzept der Cloudkitchen aufnimmt. 
+Grundsätzlich sind die Fragen im Hauptteil sind meist in Paare zu gruppieren. Es wird zuerst der Zustand vor der Pandemie, dann der jetzige Zustand abgefragt, um eine mögliche Veränderung zu erfassen. In Einzelfällen wird noch nach einer Einschätzung für die Zukunft gefragt.
+
+Die beiden Fragebögen sind hier im PDF-Format [LINK] und hier [LINK] in Google Forms zu finden.
+
 # Ergebnisse der Auswertung
 ## Kundenforschung
 
