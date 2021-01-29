@@ -1,18 +1,18 @@
 # Digitale-Wirtschaft-DDG-II
 # Gliederung
 1.  Einleitung
-    - Motivation und Relevanz des Themas
-    - Gründe für die Entscheidung und Entscheidungsprozess (-> Projektübersicht alt)
-    - Begriffsglossar
     - Forschungsfrage
+    - Motivation und Relevanz
+    - Hergang der Themenwahl
+    - Glossar
 2.  Methode
-    - Datenerhebung und Methodenauswahl
-    - Bereitstellung der Materialien
-    - Erklärung der Fragebögen
-    - Erklärung der Analysemethoden
+    - Datenerhebung
+    - Gründe für die Wahl der Datenerhebungsmethode
+    - Detailliertere Beschreibung der Fragebögen
+    - Auswertungsmethoden
 3.  Ergebnisse der Auswertung
-    - Auswertung des Kundenfragebogens
-    - Auswertung des Gastronomenfragebogens
+    - Kundenforschung
+    - Gastronomenforschung
 4.  Fazit
 
 # Einleitung
@@ -59,13 +59,13 @@ Ebenso ist die Beantwortung der Fragebögen zeitlich von uns selbst unabhängig.
 Ein weiterer Grund für die Wahl der Datenerhebung war die Vermeidung von Datenschutzproblemen. Der Datenschutz wurde über die vollkommen anonyme Gestaltung der Fragebogen garantiert.
 Eine Auswertung anhand bereits existierender Arbeiten und Daten war mangels Forschungsarbeiten und zuverlässiger Quellen zu diesem sehr speziellen und neuen Forschungsgebiet ebenso nicht lohnend.
 
-### Detailliertere Beschreibung der Fragebögen:
+### Detailliertere Beschreibung der Fragebögen
 
 Beide Bögen bestehen jeweils aus einem ersten Abschnitt zu demographischen Angaben des Studienteilnehmers, einem Teil mit Grundfragen zum Thema Lieferdienste, Takeway, Bestellmethoden etc. und einem abschließenden Teil zur Beurteilung Themenbezogener Aussagen in Form von Likert-Items.
 Während der Kundenfragebogen im Hauptteil Fragen zur Nutzung von Lieferdiensten, Takeaway und anderen Digitalisierungsaspekten der Gastronomieangebote stellt, befasst sich der Gastronomenfragebogen mit Fragen zum Angebot digitalisierter Angebote in der Gastronomie. Zusätzlich werden im Kundenfragebogen Daten zum Konzept Kochboxen erfasst, während der Gastronomenfragebogen stattdessen das ebenso neue Konzept der Cloudkitchen aufnimmt. 
 Grundsätzlich sind die Fragen im Hauptteil sind meist in Paare zu gruppieren. Es wird zuerst der Zustand vor der Pandemie, dann der jetzige Zustand abgefragt, um eine mögliche Veränderung zu erfassen. In Einzelfällen wird noch nach einer Einschätzung für die Zukunft gefragt.
 
-Die beiden Fragebögen sind hier im PDF-Format https://github.com/marcfloeter/Digitale-Wirtschaft-DDG-II/blob/main/Kundenfragebogen.pdf, https://github.com/marcfloeter/Digitale-Wirtschaft-DDG-II/blob/main/Gastronomenfragebogen.pdf und hier https://docs.google.com/forms/d/1ORCS9y1mNW58IIMgcKyazP_Xx7u0DDZ-B1lTn1cLQnk/edit, https://docs.google.com/forms/d/1uaF4_GDq2__eDgVVea8sRiy_BMrc4Eamde4KC8GMxTQ/edit in Google Forms zu finden.
+Die beiden Fragebögen sind hier im PDF-Format https://github.com/marcfloeter/Digitale-Wirtschaft-DDG-II/blob/main/Material%20-%20Frageb%C3%B6gen/Kundenfragebogen.pdf , https://github.com/marcfloeter/Digitale-Wirtschaft-DDG-II/blob/main/Material%20-%20Frageb%C3%B6gen/Kundenfragebogen.pdf und hier https://docs.google.com/forms/d/1ORCS9y1mNW58IIMgcKyazP_Xx7u0DDZ-B1lTn1cLQnk/edit, https://docs.google.com/forms/d/1uaF4_GDq2__eDgVVea8sRiy_BMrc4Eamde4KC8GMxTQ/edit in Google Forms zu finden.
 
 ### Auswertungsmethoden
 
