@@ -62,6 +62,8 @@ Grundsätzlich sind die Fragen im Hauptteil sind meist in Paare zu gruppieren. E
 
 Die beiden Fragebögen sind hier im PDF-Format [LINK] und hier [LINK] in Google Forms zu finden.
 
+Zur weiteren Auswertung wurde mehrfache lineare Regression verwendet. Das Ziel der Verwendung dieser Methode ist es, um herauszufinden, ob ein Faktor aus Bereich Digitalisierungsschub wegen Coronapandemie die Nutzungshäufigkeit des Online-Lieferdiensts beeinflusst. Die Nullhypothese dieser Studie lautet, dass alle Faktorenkoeffizienten, welche aus Bereich Digitalisierung seit Coronakrise stammen, einen Wert von 0 haben. Wenn es nur einen Faktor aus diesem Bereich gibt, dessen seinen Koeffizientenwert ungleich 0 ist, kann geschlossen werden, dass die Nullhypothese verworfen und die Alternativhypothese akzeptiert wird. Die Regressionsanalyse ist eine übliche Methode zur Vorhersage. Sie wird immer dann verwendet, wenn wir einen kausalen Zusammenhang zwischen Variablen haben. Die Häufigkeit der Nutzung von Online-Lieferservice ist die abhängige Variable in dieser Methode.
+
 # Ergebnisse der Auswertung
 ## Kundenforschung
 
@@ -118,14 +120,14 @@ Die Hälfte unserer Befragten bestellte seit der Coronapandemie häufiger Essen 
 Bequemlichkeit und Zeitersparnis sind die Hauptgründe, warum Benutzer von Online-Essenlieferdiensten ihr Essen über diese Dienste bestellen (Abbildung 6). Unsere Befragten stammen aus der produktiven Altersgruppe mit einem Durchschnittsalter von 27,36 Jahren. Darüber hinaus arbeiten die meisten von ihnen als Studenten und vollzeitangestellte Mitarbeiter. Daher verbringen sie ihre Zeit meistens zu arbeiten oder zu studieren, anstatt Essen zu kochen. Aus der dritten Abbildung geht hervor, dass die meisten Befragten die Verwendung von Takeaways gegenüber Lieferservices bevorzugen. Wenn sie jedoch keine Zeit haben, ihr Essen abzuholen, ist ein Lieferservice der beste Ersatz für das Problem. Der Grund für die Zeitersparnis ist wohl sinnvoll, wenn wir uns an diese Daten orientieren. Das Bestellen von Speisen ist zeitsparender als das Kochen ihrer eigenen Speisen. 80% der Befragten nutzen Lieferdienst, um beim Abendessen Essen zu bestellen. Dies erklärt, dass sich die Nutzung von Lieferservices bequem anfühlt, wenn sich die Befragten aufgrund täglicher und geschäftiger Aktivitäten müde fühlt, was dazu führt, dass es nicht möglich ist, Takeaways zu verwenden oder Essen selbst zu kochen. Außerdem bieten Online-Lieferservices viele Möglichkeiten zur Auswahl von Speisen, sodass die Nutzung dieses Dienstes eine Variation der Mahlzeit bietet. Seit der Coronapandemie haben die Befragten beim Einkauf ihres Lebensmittels nicht zu Zustelldienste (z.B. Kochbox) umgestiegen. Sie kaufen weiterhin in Supermärkten ein und glauben, dass die vorhandenen Gesundheitsprotokolle ausreichen, um die Übertragung des Virus zu verhindern.
 
 ### Mehrfache lineare Regression ###
-Diese Methode wurde verwendet, um herauszufinden, ob ein Faktor aus Bereich Digitalisierungsschub wegen Coronapandemie die Nutzungshäufigkeit des Online-Lieferdiensts beeinflusst. Die Nullhypothese dieser Studie lautet, dass alle Faktorenkoeffizienten, welche aus Bereich Digitalisierung seit Coronakrise stammen, einen Wert von 0 haben. Wenn es nur einen Faktor aus diesem Bereich gibt, dessen seinen Koeffizientenwert ungleich 0 ist, kann geschlossen werden, dass die Nullhypothese verworfen und die Alternativhypothese akzeptiert wird. Die Regressionsanalyse ist eine übliche Methode zur Vorhersage. Sie wird immer dann verwendet, wenn wir einen kausalen Zusammenhang zwischen Variablen haben. Die Häufigkeit der Nutzung von Online-Lieferservice ist die abhängige Variable in dieser Methode.
 
 VIF | Unabhängige Variable
 --- | ---
 3.298 | Monatliche Ausgabe für Lebensmittel
 2.820 | Monatliche Nutzung von Takeaways
 4.232 | Alter
-#####Tabelle 2#####. Wenn der Wert von variance inflation factor (VIF) zwischen 1 und 5 liegt, ist die Multikolinearität in Ordnung
+
+Tabelle 2. Wenn der Wert von variance inflation factor (VIF) zwischen 1 und 5 liegt, ist die Multikolinearität in Ordnung
 
 Bevor eine multiple lineare Regressionsanalyse durchgeführt wird, muss ein Test zur Überprüfung der Voraussetzungen mehrfachen linearen Regression durchgeführt werden. Wenn ein oder zwei Voraussetzungen verletzt würden, kann die Methode der multiplen linearen Regression weiterhin verwendet werden. Wenn jedoch mehr als zwei Voraussetzungan verletzt sind, ist es ratsam, eine andere Analysemethode zu verwenden (Clusteranalyse, logistische Regression, usw.). Die grafische Überprüfung des Voraussetzungstests zeigen, dass alle unabhängige Variablen, die kontinuerlich sind, eine lineare Beziehung mit der abhängige Variablen haben. Dieser Voraussetzungstest zeigt weiter an, dass Fehlerterm normal verteilt ist und es keine Autokorrelation von Fehlerverteilung gibt. Allerding gibt es eine Heteroskedastizität der Residuen. Es scheint, dass es keinen Unterschied in der Häufigkeit der Nutzung von Lieferdienst zwischen Befragten gibt, die viel Geld pro Monat für Lebensmittel ausgeben, und Befragten, die wenig Geld ausgeben. Es gibt möglicherweise mehrere Essenvariabilität bei diejenigen, die mehr Geld pro Monat ausgeben (z.B.: Grillen, Fine Dining, Kochen, usw.). Es könnte auch Endogenität geben, wobei viele Befragten, die wenig Geld pro Monat für Lebensmittel ausgeben, relativ viele Lieferdienste im Monat benutzten. In diesem Kontext müssen wir darauf achten, dass unsere Befragten hauptsächlich Studenten sind und das Durchschnittsalter 27 Jahre beträgt. Im Fragebogen wurde leider nicht gefragt, ob sie alleine, mit Partner, Freunden, oder ihrer Familie wohnen. Es kann eine Kovarianz geben, dass die Gebühr von Lieferdienstbestellungen nicht direkt durch die Befragte bezahlt wurden, sondern durch Familienmitglied, das bei ihnen zusammen wohnt. Schließlich gibt es keine Prädiktoren, die von den anderen Prädiktoren hoch representiert werden (keine Multikolinearität, vgl. Tabelle 2).
 
@@ -164,7 +166,7 @@ Bei der verwendeten Bestellmethode hingegen ergeben sich deutliche Unterschiede.
 Bei der Frage nach der Nutzung des Cloud-Kitchen Konzeptes ergibt sich eine deutliche Antwort, da alle 4 Beteiligten sich nicht vorstellen können so ein derartiges Konzept zu benutzen.
 
 
-### Motivation für die Entwicklungen###
+### Motivation für die Entwicklungen ###
 
 Insgesamt lässt sich bei der Motivation für die Nutzung von Lieferdiensten feststellen, dass Lieferdienste für manche Betreiber durchaus eine Möglichkeit darstellen können mehr Kunden für ihr Geschäft zu gewinnen, dies allerdings nicht zwangsläufig erfolgreicher ist als das anbieten von Takeaway.
 
