@@ -67,8 +67,8 @@ Die Hälfte unserer Befragten bestellte seit der Coronapandemie häufiger Essen 
 
 ### Nutzungsmotivation von Lieferdienst, Kochbox und Takeaways ###
 
-##### hier sollte die Abbildung 6 platziert werden
-Bequemlichkeit und Zeitersparnis sind die Hauptgründe, warum Benutzer von Online-Essenlieferdiensten ihr Essen über diese Dienste bestellen. Unsere Befragten stammen aus der produktiven Altersgruppe mit einem Durchschnittsalter von 27,36 Jahren. Darüber hinaus arbeiten die meisten von ihnen als Studenten und vollzeitangestellte Mitarbeiter. Daher verbringen sie ihre Zeit meistens zu arbeiten oder zu studieren, anstatt Essen zu kochen. Der Grund für die Zeitersparnis ist wohl sinnvoll, wenn wir uns an diese Daten orientieren. Das Bestellen von Speisen ist zeitsparender als das Kochen ihrer eigenen Speisen. 
+##### !hier sollte die Abbildung 6 platziert werden!
+Bequemlichkeit und Zeitersparnis sind die Hauptgründe, warum Benutzer von Online-Essenlieferdiensten ihr Essen über diese Dienste bestellen (Abbildung 6). Unsere Befragten stammen aus der produktiven Altersgruppe mit einem Durchschnittsalter von 27,36 Jahren. Darüber hinaus arbeiten die meisten von ihnen als Studenten und vollzeitangestellte Mitarbeiter. Daher verbringen sie ihre Zeit meistens zu arbeiten oder zu studieren, anstatt Essen zu kochen. Aus der dritten Abbildung geht hervor, dass die meisten Befragten die Verwendung von Takeaways gegenüber Lieferservices bevorzugen. Wenn sie jedoch keine Zeit haben, ihr Essen abzuholen, ist ein Lieferservice der beste Ersatz für das Problem. Der Grund für die Zeitersparnis ist wohl sinnvoll, wenn wir uns an diese Daten orientieren. Das Bestellen von Speisen ist zeitsparender als das Kochen ihrer eigenen Speisen. 80% der Befragten nutzen Lieferdienst, um beim Abendessen Essen zu bestellen. Dies erklärt, dass sich die Nutzung von Lieferservices bequem anfühlt, wenn sich die Befragten aufgrund täglicher und geschäftiger Aktivitäten müde fühlt, was dazu führt, dass es nicht möglich ist, Takeaways zu verwenden oder Essen selbst zu kochen.
 
 # Fazit
 
