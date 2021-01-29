@@ -73,5 +73,22 @@ Die Hälfte unserer Befragten bestellte seit der Coronapandemie häufiger Essen 
 
 Bequemlichkeit und Zeitersparnis sind die Hauptgründe, warum Benutzer von Online-Essenlieferdiensten ihr Essen über diese Dienste bestellen (vgl.Abbildung 6). Unsere Befragten stammen aus der produktiven Altersgruppe mit einem Durchschnittsalter von 27,36 Jahren. Darüber hinaus arbeiten die meisten von ihnen als Studenten und/oder vollzeitangestellte. Daher verbringen sie ihre Zeit meistens damit  entweder zu arbeiten oder zu studieren, anstatt Essen zu kochen. Aus der dritten Abbildung geht hervor, dass die meisten Befragten die Verwendung von Takeaways gegenüber Lieferservices bevorzugen. Wenn sie jedoch keine Zeit haben, ihr Essen abzuholen, ist ein Lieferservice der beste Ersatz für das Problem. Der Grund für die Zeitersparnis ist wohl sinnvoll, wenn wir uns an diese Daten orientieren. Das Bestellen von Speisen ist zeitsparender als das Kochen  eigener Speisen. 80% der Befragten nutzen Lieferdienst, um für das  Abendessen etwas zu bestellen. Dies erklärt, dass sich die Nutzung von Lieferservices bequem anfühlt, wenn sich die Befragten aufgrund täglicher und geschäftiger Aktivitäten müde fühlen, was dazu führt, dass es nicht möglich ist, Takeaways zu verwenden oder Essen selbst zu kochen. Außerdem bieten Online-Lieferservices viele Möglichkeiten zur Auswahl von Speisen, sodass die Nutzung dieses Dienstes eine Variation der Mahlzeit bietet.
 
+
+
+
+
+
+## Gastronomenforschung ##
+### Demographische Angaben ###
+Parameter | Resultat
+--- | ---
+n | 4 Befragte
+Gründungsjahr | 2003: 3 Restaurants; 2009: 1 Restaurant
+Art des Restaurants | Familienrestaurant: 4
+Speisekategorie | Indonesisch/Thailändisch: 3 ; Amerikanisch: 1 
+Lage des Restaurants - Stadt | Hamburg: 3 ; Regensburg: 1 
+Lage des Restaurants - regionales Umfeld | Stdatgebiet: 4
+Kapazitäten für Gäste | 51-75 Gäste: 3 Restaurants; 26-50: 1 Restaurant
+
 # Fazit
 
