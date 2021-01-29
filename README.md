@@ -76,7 +76,8 @@ Zur weiteren Auswertung wurde neben der deskriptiven Auswertung auch eine mehrfa
 
 ### Erfasste Demographische Daten ###
 
-[Antworten im Kundenfragebogen - Visualisiert](https://github.com/marcfloeter/Digitale-Wirtschaft-DDG-II/blob/main/Material%20-%20Antworten/Gastronomenfragebogen%20Antworten.csv)
+[Antworten im Kundenfragebogen - Rohdaten](https://github.com/marcfloeter/Digitale-Wirtschaft-DDG-II/blob/main/Material%20-%20Antworten/Kundenfragebogen%20Antworten.csv)
+
 [Antworten im Kundenfragebogen - Visualisiert](https://docs.google.com/forms/d/1ORCS9y1mNW58IIMgcKyazP_Xx7u0DDZ-B1lTn1cLQnk/edit#responses)
 
 Parameter | Resultat
@@ -171,8 +172,11 @@ Aus den Ergebnissen der multiplen linearen Regressionsanalyse geht hervor, dass 
 
 
 ## Gastronomenforschung ##
+[Antworten im Fragebogen - Rohdaten](https://github.com/marcfloeter/Digitale-Wirtschaft-DDG-II/blob/main/Material%20-%20Antworten/Gastronomenfragebogen%20Antworten.csv)
 
-[Antworten im Fragebogen](https://docs.google.com/forms/d/1uaF4_GDq2__eDgVVea8sRiy_BMrc4Eamde4KC8GMxTQ/edit#responses)
+[Antworten im Fragebogen - Visualisiert](https://docs.google.com/forms/d/1uaF4_GDq2__eDgVVea8sRiy_BMrc4Eamde4KC8GMxTQ/edit#responses)
+
+
 ### Demographische Angaben ###
 Parameter | Resultat
 --- | ---
