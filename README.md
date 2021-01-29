@@ -67,13 +67,48 @@ Die Hälfte unserer Befragten bestellte seit der Coronapandemie häufiger Essen 
 
 ### Nutzungsmotivation von Lieferdienst, Kochbox und Takeaways ###
 
-##### !hier sollte die Abbildung 6 platziert werden!
+<img src="Abbildungen/Crn_Knf_Abb_6.png">
 Bequemlichkeit und Zeitersparnis sind die Hauptgründe, warum Benutzer von Online-Essenlieferdiensten ihr Essen über diese Dienste bestellen (Abbildung 6). Unsere Befragten stammen aus der produktiven Altersgruppe mit einem Durchschnittsalter von 27,36 Jahren. Darüber hinaus arbeiten die meisten von ihnen als Studenten und vollzeitangestellte Mitarbeiter. Daher verbringen sie ihre Zeit meistens zu arbeiten oder zu studieren, anstatt Essen zu kochen. Aus der dritten Abbildung geht hervor, dass die meisten Befragten die Verwendung von Takeaways gegenüber Lieferservices bevorzugen. Wenn sie jedoch keine Zeit haben, ihr Essen abzuholen, ist ein Lieferservice der beste Ersatz für das Problem. Der Grund für die Zeitersparnis ist wohl sinnvoll, wenn wir uns an diese Daten orientieren. Das Bestellen von Speisen ist zeitsparender als das Kochen ihrer eigenen Speisen. 80% der Befragten nutzen Lieferdienst, um beim Abendessen Essen zu bestellen. Dies erklärt, dass sich die Nutzung von Lieferservices bequem anfühlt, wenn sich die Befragten aufgrund täglicher und geschäftiger Aktivitäten müde fühlt, was dazu führt, dass es nicht möglich ist, Takeaways zu verwenden oder Essen selbst zu kochen. Außerdem bieten Online-Lieferservices viele Möglichkeiten zur Auswahl von Speisen, sodass die Nutzung dieses Dienstes eine Variation der Mahlzeit bietet. Seit der Coronapandemie haben die Befragten beim Einkauf ihres Lebensmittels nicht zu Zustelldienste (z.B. Kochbox) umgestiegen. Sie kaufen weiterhin in Supermärkten ein und glauben, dass die vorhandenen Gesundheitsprotokolle ausreichen, um die Übertragung des Virus zu verhindern.
 
 ### Mehrfache lineare Regression ###
 Diese Methode wurde verwendet, um herauszufinden, ob ein Faktor aus Bereich Digitalisierungsschub wegen Coronapandemie die Nutzungshäufigkeit des Online-Lieferdiensts beeinflusst. Die Nullhypothese dieser Studie lautet, dass alle Faktorenkoeffizienten, welche aus Bereich Digitalisierung seit Coronakrise stammen, einen Wert von 0 haben. Wenn es nur einen Faktor aus diesem Bereich gibt, dessen seinen Koeffizientenwert ungleich 0 ist, kann geschlossen werden, dass die Nullhypothese verworfen und die Alternativhypothese akzeptiert wird. Die Regressionsanalyse ist eine übliche Methode zur Vorhersage. Sie wird immer dann verwendet, wenn wir einen kausalen Zusammenhang zwischen Variablen haben. Die Häufigkeit der Nutzung von Online-Lieferservice ist die abhängige Variable in dieser Methode.
 
 Bevor eine multiple lineare Regressionsanalyse durchgeführt wird, muss ein Test zur Überprüfung der Voraussetzungen mehrfachen linearen Regression durchgeführt werden. Wenn ein oder zwei Voraussetzungen verletzt würden, kann die Methode der multiplen linearen Regression weiterhin verwendet werden. Wenn jedoch mehr als zwei Voraussetzungan verletzt sind, ist es ratsam, eine andere Analysemethode zu verwenden (Clusteranalyse, logistische Regression, usw.). Die Ergebnisse der Überprüfung des Voraussetzungstests zeigen, dass alle unabhängige Variablen, die kontinuerlich sind, eine lineare Beziehung mit der abhängige Variablen haben. Die Voraussetzungstest zeigt weiter an, dass Fehlerterm normal verteilt ist und es keine Autokorrelation von Fehlerverteilung gibt. Allerding gibt es eine Heteroskedastizität der Residuen. Es scheint, dass es keinen Unterschied in der Häufigkeit der Nutzung von Lieferdienst zwischen Befragten gibt, die viel Geld pro Monat für Lebensmittel ausgeben, und Befragten, die wenig Geld ausgeben. Es gibt möglicherweise mehrere Essenvariabilität bei diejenigen, die mehr Geld pro Monat ausgeben (z.B.: Grillen, Fine Dining, Kochen, usw.). Es könnte auch Endogenität geben, wobei viele Befragten, die wenig Geld pro Monat für Lebensmittel ausgeben, relativ viele Lieferdienste im Monat benutzten. In diesem Kontext müssen wir darauf achten, dass unsere Befragten hauptsächlich Studenten sind und das Durchschnittsalter 27 Jahre beträgt. Im Fragebogen wurde leider nicht gefragt, ob sie alleine, mit Partner, Freunden, oder ihrer Familie wohnen. Es kann eine Kovarianz geben, dass die Gebühr von Lieferdienstbestellungen nicht direkt durch die Befragte bezahlt wurden, sondern durch Familienmitglied, das bei ihnen zusammen wohnt. Schließlich gibt es keine Prädiktoren, die von den anderen Prädiktoren hoch representiert werden (keine Multikolinearität).
+
+
+
+
+## Gastronomenforschung ##
+### Demographische Angaben ###
+Parameter | Resultat
+--- | ---
+n | 4 Befragte
+Gründungsjahr | 2003: 3 Restaurants; 2009: 1 Restaurant
+Art des Restaurants | Familienrestaurant: 4
+Speisekategorie | Indonesisch/Thailändisch: 3 ; Amerikanisch: 1 
+Lage des Restaurants - Stadt | Hamburg: 3 ; Regensburg: 1 
+Lage des Restaurants - regionales Umfeld | Stadtgebiet: 4
+Kapazitäten für Gäste | 51-75 Gäste: 3 Restaurants; 26-50: 1 Restaurant
+
+### Digitalisierung innerhalb der Gastronomie### 
+
+Bei der Frage der Digitalisierung ist bei den hier aufgeführten Teilnehmenden Restaurants erkennbar, dass alle Teilnehmenden eine eigene Website besitzen und auch schon vor dem Ausbruch der Coronapandemie über eine eigene Website verfügten. Bezüglich der verfügbaren Möglichkeiten bietet nur einer der Teilnehmern seinen Kunden keine Möglichkeit ihr Essen schon im Voraus zu bestellen, um es dann im Restaurant vor Ort zu konsumieren.
+
+Von den Bezahlmöglichkeiten bieten alle 4 Teilnehmern ihren Kunden alle verfügbaren Möglichkeiten an (Bar, mit Karte, Kontaktlos und per Online/Überweisung). Verglichen mit der Zeit vor Corona ergibt sich hierbei eine Veränderung/Erweiterung mit den Zahlungsmöglichkeiten. Vor der Coronakrise akzeptierten zwar alle 4 Restaurants Barzahlung, aber nur 3 der Restaurants boten die anderen Zahlungsvarianten an.
+
+
+Im Vergleich dazu ist bei der Mitgliedschaft bei einem Lieferdienst keine Veränderung feststellbar. Sowohl laut Stand der Befragung als auch vor der Coronapandemie waren 3 der Restaurants bei einem Liederdienst Registriert und sind es weiterhin, 1 Restaurant war hingegen vor der Krise bei keinem Lieferdienst registriert und war auch zum Zeitpunkt der Befragung bei keinem Lieferdienst registriert
+
+Von dem Angebot der Hauseigenen Lieferdienste ist erkennbar, dass es zu keiner Veränderung bei allen Beteiligten gekommen ist, da alle 4 Restaurants bereits vor der Coronakrise einen hauseigenen Lieferdienst angeboten haben und auch weiterhin einen hauseigenen Lieferdienst anbieten.
+Im Direkten Vergleich mit Takeaway ergibt sich keine Konkurrenz der beiden Konzepte, da hier  alle teilnehmenden Restaurants sowohl einen Takeaway-Service besitzen, als auch schon vor der Coronakrise einen solchen Dienst angeboten haben.
+
+Bei der verwendeten Bestellmethode hingegen ergeben sich deutliche Unterschiede. Bei Lieferdiensten ist die am häufigsten genutze Bestellmethode die Bestellung per Telefon (Bei allen 4 Restaurants), gefolgt von Restauranteigenen Websiten und Apps (Jeweils 3 Restaurants). Die gar nicht genutzte Option ist die Bestellung über die Website eines großen Online-Lieferdienster, keiner der Teilnehmer benutzt diese Option. Anders hingegen sieht es bei Takeaways aus, hierbei sind die am häufigsten genutzten Methoden die Bestellung vor Ort und per Telefon (jeweils 4 Restaurants), gefolgt von der Restauranteigenen Website (3 Restaurants). Dadurch das alle Beteiligten Lieferdienste und Takeaways anbieten ergeben sich logischerweise keine Angaben zu den Optionen "Wir bieten keinen Lieferdienst/Takeaways an".
+
+
+Bei der Frage nach der Nutzung des Cloud-Kitchen Konzeptes ergibt sich eine deutliche Antwort, da alle 4 Beteiligten sich nicht vorstellen können so ein derartiges Konzept zu benutzen.
+
+
+
 
 
 # Fazit
