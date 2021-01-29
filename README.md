@@ -76,7 +76,7 @@ Zur weiteren Auswertung wurde neben der deskriptiven Auswertung auch eine mehrfa
 
 ### Erfasste Demographische Daten ###
 
-[Antworten im Kundenfragebogen - Visualisiert](Gastronomenfragebogen Antworten.csv)
+[Antworten im Kundenfragebogen - Visualisiert](https://github.com/marcfloeter/Digitale-Wirtschaft-DDG-II/blob/main/Material%20-%20Antworten/Gastronomenfragebogen%20Antworten.csv)
 [Antworten im Kundenfragebogen - Visualisiert](https://docs.google.com/forms/d/1ORCS9y1mNW58IIMgcKyazP_Xx7u0DDZ-B1lTn1cLQnk/edit#responses)
 
 Parameter | Resultat
