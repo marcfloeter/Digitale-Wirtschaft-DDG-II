@@ -76,6 +76,8 @@ Zur weiteren Auswertung wurde neben der deskriptiven Auswertung auch eine mehrfa
 
 ### Erfasste Demographische Daten ###
 
+[Antworten im Kundenfragebogen](https://docs.google.com/forms/d/1ORCS9y1mNW58IIMgcKyazP_Xx7u0DDZ-B1lTn1cLQnk/edit#responses)
+
 Parameter | Resultat
 --- | ---
 n | 102 Befragte
@@ -144,6 +146,8 @@ Der Wert von R-Square beträgt 0,842, was bedeutet, dass alle Faktoren bis zu 84
 
 
 ## Gastronomenforschung ##
+
+[Antworten im Fragebogen](https://docs.google.com/forms/d/1uaF4_GDq2__eDgVVea8sRiy_BMrc4Eamde4KC8GMxTQ/edit#responses)
 ### Demographische Angaben ###
 Parameter | Resultat
 --- | ---
