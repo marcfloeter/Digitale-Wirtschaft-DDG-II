@@ -54,13 +54,15 @@ Auf der zweiten Abbildung ist erkennbar, dass die Mehrheit der Befragten bereits
 
 
 <img src="Abbildungen/Crn_Knf_Abb_4.png">
-![Abbildung 4. Vergleich den Arten von Online-Lieferservices und den Arten von Plattformen, die bei der Online-Essenbestellung am häufigsten verwendet werden]
+Abbildung 4. Vergleich den Arten von Online-Lieferservices und den Arten von Plattformen, die bei der Online-Essenbestellung am häufigsten verwendet werden.
+
 
 Aus der vierten Abbildung ist ersichtlich, dass größere Online-Lieferdienste (z.B Lieferando, Bring Butler, Lieferhase, usw.) hauptsächlich zur Bestellung genutzt werden . Die meisten Befragten verwenden  Apps , wenn sie ihr Essen über diese Art von Lieferservice bestellen, aber nicht wenige bestellen auch über die Webseite. Wenn die Befragten  sowohl größere Lieferservices als auch die hauseigenen Lieferdienst der Restaurants verwenden (z.B McDelivery, Domino’s Pizza Germany, Vapiano Lieferservice, usw.), ist die Bestellung per App die am häufigsten genutzte Variante.
 
 
 <img src="Abbildungen/Crn_Knf_Abb_5.png">
-![Abbildung 5. Vergleich der Nutzungsintensität der Plattform bei der Essenbestellung und der Zahlungsmethoden]
+Abbildung 5. Vergleich der Nutzungsintensität der Plattform bei der Essenbestellung und der Zahlungsmethoden.
+
 
 Die Mehrheit der Befragten, die bei der Essenbestellung gerne Apps verwenden, hat auf bargeldlose Bezahlung umgestiegen (Abbildung 5). In der Zwischenzeit bevorzugen die meisten Befragten, die ihr Essen lieber telefonisch, vor Ort oder per Website bestellen, immer noch die Kombination von bargeldlose Bezahlung und Bargeld bei ihrer Transaktionen.
 Die Hälfte unserer Befragten bestellte seit der Coronapandemie häufiger Essen über das Internet. Mehr als 80% davon bestellen ihr Essen zum Abendessen. Mehr als 40% der Befragten sind nach der Lockerung der Coronamaßnahmen im späten Frühling 2020 wieder häufiger ins Restaurant gegangen anstatt Essen zu bestellen, aber nicht wenige von ihnen bestellen trotz Essen mit Lieferservice, obwohl sie ins Restaurant gegangen sind. Fast alle Befragten wollen nach der Coronapandemie wieder häufiger ins Restaurants. Allerdings glaubt mehr als die Hälfte von ihnen, dass die Nutzung der Lieferdienste während der Coronapandemie einen dauerhaften Effekt auf das Konsumverhalten im Bereich Gastronomie haben wird. Abgesehen von Liefer- und Takeawaydiensten gibt es auch Kochboxdienst, aber die meisten von Befragten sind immer noch zögerlich, sie zu nutzen.
@@ -117,8 +119,16 @@ Bei der verwendeten Bestellmethode hingegen ergeben sich deutliche Unterschiede.
 Bei der Frage nach der Nutzung des Cloud-Kitchen Konzeptes ergibt sich eine deutliche Antwort, da alle 4 Beteiligten sich nicht vorstellen können so ein derartiges Konzept zu benutzen.
 
 
+### Motivation für die Entwicklungen###
+
+Insgesamt lässt sich bei der Motivation für die Nutzung von Lieferdiensten feststellen, dass Lieferdienste für manche Betreiber durchaus eine Möglichkeit darstellen können mehr Kunden für ihr Geschäft zu gewinnen, dies allerdings nicht zwangsläufig erfolgreicher ist als das anbieten von Takeaway.
+
+Bei der Restlichen Motivation ergibt sich eine deutliche Diskrepanz bezüglich des Inputs. 3 der 4 Beteiligten stimmen vielen der gefragten Punkte vollumfänglich zu, während der verbliebene Beteiligte die meisten Fragen gar nicht übereinstimmt.
+
+Eine Übereinstimmung, welche bei allen Beteiligten anzutreffen ist, ist die Nicht-zustimmung auf  die Aussagen, dass Lieferdienste Angeboten werden, weil die betreffenden Produkte nicht vor Ort/Im Restaurant bestellbar ist.
 
 
+Hingegen bei Takeaways ergibt sich ein verändertes Bild. Alle Beteiligten sind hierbei der Ansicht, dass sich durch Takeaway-Angebote mehr Kunden gewinnen lassen, sowohl insgesamt als auch im Vergleich zu Lieferdiensten.
 
 # Fazit
 
