@@ -65,7 +65,7 @@ Beide Bögen bestehen jeweils aus einem ersten Abschnitt zu demographischen Anga
 Während der Kundenfragebogen im Hauptteil Fragen zur Nutzung von Lieferdiensten, Takeaway und anderen Digitalisierungsaspekten der Gastronomieangebote stellt, befasst sich der Gastronomenfragebogen mit Fragen zum Angebot digitalisierter Angebote in der Gastronomie. Zusätzlich werden im Kundenfragebogen Daten zum Konzept Kochboxen erfasst, während der Gastronomenfragebogen stattdessen das ebenso neue Konzept der Cloudkitchen aufnimmt. 
 Grundsätzlich sind die Fragen im Hauptteil sind meist in Paare zu gruppieren. Es wird zuerst der Zustand vor der Pandemie, dann der jetzige Zustand abgefragt, um eine mögliche Veränderung zu erfassen. In Einzelfällen wird noch nach einer Einschätzung für die Zukunft gefragt.
 
-Die beiden Fragebögen sind hier im PDF-Format https://github.com/marcfloeter/Digitale-Wirtschaft-DDG-II/blob/main/Kundenfragebogen.pdf und hier https://github.com/marcfloeter/Digitale-Wirtschaft-DDG-II/blob/main/Gastronomenfragebogen.pdf in Google Forms zu finden.
+Die beiden Fragebögen sind hier im PDF-Format https://github.com/marcfloeter/Digitale-Wirtschaft-DDG-II/blob/main/Kundenfragebogen.pdf, https://github.com/marcfloeter/Digitale-Wirtschaft-DDG-II/blob/main/Gastronomenfragebogen.pdf und hier https://docs.google.com/forms/d/1ORCS9y1mNW58IIMgcKyazP_Xx7u0DDZ-B1lTn1cLQnk/edit, https://docs.google.com/forms/d/1uaF4_GDq2__eDgVVea8sRiy_BMrc4Eamde4KC8GMxTQ/edit in Google Forms zu finden.
 
 ### Auswertungsmethoden
 
