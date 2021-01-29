@@ -65,5 +65,10 @@ Aus der vierten Abbildung ist ersichtlich, dass größere Online-Lieferdienste (
 Die Mehrheit der Befragten, die bei der Essenbestellung gerne Apps verwenden, hat auf bargeldlose Bezahlung umgestiegen (Abbildung 5). In der Zwischenzeit bevorzugen die meisten Befragten, die ihr Essen lieber telefonisch, vor Ort oder per Website bestellen, immer noch die Kombination von bargeldlose Bezahlung und Bargeld bei ihrer Transaktionen.
 Die Hälfte unserer Befragten bestellte seit der Coronapandemie häufiger Essen über das Internet. Mehr als 80% davon bestellen ihr Essen zum Abendessen. Mehr als 40% der Befragten sind nach der Lockerung der Coronamaßnahmen im späten Frühling 2020 wieder häufiger ins Restaurant gegangen anstatt Essen zu bestellen, aber nicht wenige von ihnen bestellen trotz Essen mit Lieferservice, obwohl sie ins Restaurant gegangen sind. Fast alle Befragten wollen nach der Coronapandemie wieder häufiger ins Restaurants. Allerdings glaubt mehr als die Hälfte von ihnen, dass die Nutzung der Lieferdienste während der Coronapandemie einen dauerhaften Effekt auf das Konsumverhalten im Bereich Gastronomie haben wird. Abgesehen von Liefer- und Takeawaydiensten gibt es auch Kochboxdienst, aber die meisten von Befragten sind immer noch zögerlich, sie zu nutzen.
 
+### Nutzungsmotivation von Lieferdienst, Kochbox und Takeaways ###
+
+##### hier sollte die Abbildung 6 platziert werden
+Bequemlichkeit und Zeitersparnis sind die Hauptgründe, warum Benutzer von Online-Essenlieferdiensten ihr Essen über diese Dienste bestellen. Unsere Befragten stammen aus der produktiven Altersgruppe mit einem Durchschnittsalter von 27,36 Jahren. Darüber hinaus arbeiten die meisten von ihnen als Studenten und vollzeitangestellte Mitarbeiter. Daher verbringen sie ihre Zeit meistens zu arbeiten oder zu studieren, anstatt Essen zu kochen. Der Grund für die Zeitersparnis ist wohl sinnvoll, wenn wir uns an diese Daten orientieren. Das Bestellen von Speisen ist zeitsparender als das Kochen ihrer eigenen Speisen. 
+
 # Fazit
 
