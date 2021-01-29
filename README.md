@@ -87,8 +87,23 @@ Gründungsjahr | 2003: 3 Restaurants; 2009: 1 Restaurant
 Art des Restaurants | Familienrestaurant: 4
 Speisekategorie | Indonesisch/Thailändisch: 3 ; Amerikanisch: 1 
 Lage des Restaurants - Stadt | Hamburg: 3 ; Regensburg: 1 
-Lage des Restaurants - regionales Umfeld | Stdatgebiet: 4
+Lage des Restaurants - regionales Umfeld | Stadtgebiet: 4
 Kapazitäten für Gäste | 51-75 Gäste: 3 Restaurants; 26-50: 1 Restaurant
+
+### Digitalisierung innerhalb der Gastronomie### 
+
+Bei der Frage der Digitalisierung ist bei den hier aufgeführten Teilnehmenden Restaurants erkennbar, dass alle Teilnehmenden eine eigene Website besitzen und auch schon vor dem Ausbruch der Coronapandemie über eine eigene Website verfügten. Bezüglich der verfügbaren Möglichkeiten bietet nur einer der Teilnehmern seinen Kunden keine Möglichkeit ihr Essen schon im Voraus zu bestellen, um es dann im Restaurant vor Ort zu konsumieren.
+
+Von den Bezahlmöglichkeiten bieten alle 4 Teilnehmern ihren Kunden alle verfügbaren Möglichkeiten an (Bar, mit Karte, Kontaktlos und per Online/Überweisung). Verglichen mit der Zeit vor Corona ergibt sich hierbei eine Veränderung/Erweiterung mit den Zahlungsmöglichkeiten. Vor der Coronakrise akzeptierten zwar alle 4 Restaurants Barzahlung, aber nur 3 der Restaurants boten die anderen Zahlungsvarianten an.
+
+
+Im Vergleich dazu ist bei der Mitgliedschaft bei einem Lieferdienst keine Veränderung feststellbar. Sowohl laut Stand der Befragung als auch vor der Coronapandemie waren 3 der Restaurants bei einem Liederdienst Registriert und sind es weiterhin, 1 Restaurant war hingegen vor der Krise bei keinem Lieferdienst registriert und war auch zum Zeitpunkt der Befragung bei keinem Lieferdienst registriert
+
+Von dem Angebot der Hauseigenen Lieferdienste ist erkennbar, dass es zu keiner Veränderung bei allen Beteiligten gekommen ist, da alle 4 Restaurants bereits vor der Coronakrise einen hauseigenen Lieferdienst angeboten haben und auch weiterhin einen hauseigenen Lieferdienst anbieten.
+Im Direkten Vergleich mit Takeaway ergibt sich keine Konkurrenz der beiden Konzepte, da hier auch alle teilnehmenden Restaurants sowohl einen Takeaway-Service besitzen, als auch schon vor der Coronakrise einen solchen Dienst angeboten haben.
+
+
+
 
 # Fazit
 
