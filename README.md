@@ -76,7 +76,8 @@ Zur weiteren Auswertung wurde neben der deskriptiven Auswertung auch eine mehrfa
 
 ### Erfasste Demographische Daten ###
 
-[Antworten im Kundenfragebogen](https://docs.google.com/forms/d/1ORCS9y1mNW58IIMgcKyazP_Xx7u0DDZ-B1lTn1cLQnk/edit#responses)
+[Antworten im Kundenfragebogen - Visualisiert](Gastronomenfragebogen Antworten.csv)
+[Antworten im Kundenfragebogen - Visualisiert](https://docs.google.com/forms/d/1ORCS9y1mNW58IIMgcKyazP_Xx7u0DDZ-B1lTn1cLQnk/edit#responses)
 
 Parameter | Resultat
 --- | ---
