@@ -28,7 +28,7 @@ Nicht zuletzt hat die Befragung der Bevölkerung zu einem alltäglichen Thema in
 ### Hergang der Themenwahl
 
 Diese Forschungsfrage ist vom übergeordneten Thema "Digitale Wirtschaft" abgeleitet. Uns auf den Bereich der Gastronomie zu spezialiseren hatte haupsächlich den Grund, dass es ein greifbares und alltägliches Thema ist, zu dem im Rahmen unserer Möglichkeiten dieses Kurses auch eine angemessene Menge an Daten aufgetrieben werden kann. Weitere Gründe waren selbstverständlich unsere eigene Neugier zu diesem Thema und zuvor genannte generelle Relevanz dieses Themas für verschiedenste Bereiche.
-Der erste Plan, sich auf die Erforschung des neuartigen Konzeptes der "Cloud Kitchen" zu beschränken, wurde aufgrund mangelnder Fakte- und Datenlage folglich auf den gesamten Bereich der Gastronomie erweitert. Der alte und erste Plan ist dennoch hier beigefügt. <link  href=""/>  
+Der erste Plan, sich auf die Erforschung des neuartigen Konzeptes der "Cloud Kitchen" zu beschränken, wurde aufgrund mangelnder Fakte- und Datenlage folglich auf den gesamten Bereich der Gastronomie erweitert. Der alte und erste Plan ist dennoch hier beigefügt: https://github.com/marcfloeter/Digitale-Wirtschaft-DDG-II/blob/main/Material%20-%20Sontiges/Projektu%CC%88bersicht%20Alt.docx  
 
 ### Glossar
 Zuerst sind ein paar der immer wieder aufgegriffenen Schlagworte dieses Berichtes zu klären.
