@@ -142,6 +142,30 @@ Bevor eine multiple lineare Regressionsanalyse durchgeführt wird, muss ein Test
 
 Der Wert von R-Square beträgt 0,842, was bedeutet, dass alle Faktoren bis zu 84,29% der Variabilität in der Häufigkeit der Nutzung von Lieferdienst erklären können. Bei Sozialwissenschaften ist 80% Varianzerklärung sehr ausgezeichnet. Der Achsenabschnitt von -0,491 zeigt an, wenn die Befragte in allen Faktoren den Wert 0 besitzen, nutzen sie gar keine Lieferservices im Monat.
 
+Prädiktoren | Koeffizient | Odds Ratio
+--- | --- | ---
+Abschluss: abgeschlossene Berufsausbildung | 1.571 | 4.814
+Abschluss: Mittlere Reife | 1.070 | 2.917
+Beschäftigungsstatus: Selbstständig | 0.628 | 1.874
+Beschäftigungsstatus: Vollzeit angestellt | 0.485 | 1.624
+Beschäftigungsstatus: Schüler/Student | 0.464 | 1.589
+Seit Homeoffice mehr Essen bestellen | 0.329 | 1.389
+Monatliche Ausgabe f. Lebensmittel | 0.205 | 1.227
+Art für Bestellung: Website | 0.157 | 1.170
+Alter | 0.127 | 1.135
+Ich arbeite im Homeoffice | 0.076 | 1.079
+Nach der Lockerung nicht wieder ins Restaurant | 0.069 | 1.072
+Homeoffice verändert Essgewohnheit | 0.028 | 1.028
+Nach der Lockerung wieder ins Restaurant | -0.094 | 0.910
+Seit Coronakrise Essen per Internet häufiger bestellen | -0.192 | 0.825
+Bevorzuge Lieferdienst/Takeaways als Restaurantbesuch | -0.282 | 0.754
+Kinder: 2 | -0.628 | 0.533
+Kinder: 4 | -0.135 | 0.259
+
+Tabelle 3. Übersichtstabelle von mehrfachen linearen Regression
+
+Aus den Ergebnissen der multiplen linearen Regressionsanalyse geht hervor, dass die Auswirkungen von Coronapandemie, wie Homeoffice und Lockerung, keinen signifikanten Einfluss auf die Nutzung von Lieferservices haben. Tabelle 3 informiert uns, dass Homeoffice keinen signifikanten Einfluss auf die Nutzung von Lieferservices hat. Es ist nur 1-mal wahrscheinlicher, dass eine Person den Online-Lieferservice für Essenbestellung pro Monat nutzt, wenn sie seit Coronapandemie im Homeoffice arbeiten. 1,3-mal Wahrscheinlichkeit bedeutet, dass Homeoffice fast keine Änderung zur Nutzung der Lieferdienst bringt. Dies steht im Einklang mit der oben gemachten Datenanalyse und der Motivation der Befragten, dass sich ihre Nutzung von Lieferservices vor und seit Beginn von Coronakrise und Homeoffice nicht geändert hat. Die Befragten nutzen das Internet seit Beginn der Coronavirus-Krise bereits, um Essen zu bestellen.
+
 
 
 
@@ -191,7 +215,4 @@ Hingegen bei Takeaways ergibt sich ein verändertes Bild. Alle Beteiligten sind 
 Hingegen bei Takeaways ergibt sich ein verändertes Bild. Alle Beteiligten sind hierbei der Ansicht, dass sich durch Takeaway-Angebote mehr Kunden gewinnen lassen, sowohl insgesamt als auch im Vergleich zu Lieferdiensten, auch bedingt dadurch, dass nach Ansicht der beteiligten die Kunden eher Takeaway benutzen. Übereinstimmung ergibt sich auch in der aussage, dass Takeaway angeboten wird, weil das Produkt nicht vor Ort konsumierbar ist, allerdings stimmt keiner der Beteiligten darin überein, dass sie Takeaway anbieten, weil ihre Produkte nicht vor Ort im Restaurant bestell - und konsumierbar sind.
 
 # Fazit
-Unsere Forschungsfrage lässt sich in beiden Fällen, sowohl bei den Kunden als auch bei den Gastronomen mit einem NEIN beantworten. Die Forschung an diesem Thema lieferte uns trotzdem wichtige zum Teil unerwartete Ergebnisse, Einblicke und Eindrücke über die Entwicklungen, welche (nicht) beobachtbar sind.
-
-Unsere Auswertungen mit Hilfe der linearen Regression zeigen unter anderem, dass es mit dem Beginn der Coronakrise durchaus zu Veränderungen gekommen ist. Diese erfolgen allerdings in solch einem geringen Umfang, dass deren Auswirkungen nicht signifikant sind.
 
