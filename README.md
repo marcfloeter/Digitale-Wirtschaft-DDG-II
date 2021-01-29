@@ -191,4 +191,7 @@ Hingegen bei Takeaways ergibt sich ein verändertes Bild. Alle Beteiligten sind 
 Hingegen bei Takeaways ergibt sich ein verändertes Bild. Alle Beteiligten sind hierbei der Ansicht, dass sich durch Takeaway-Angebote mehr Kunden gewinnen lassen, sowohl insgesamt als auch im Vergleich zu Lieferdiensten, auch bedingt dadurch, dass nach Ansicht der beteiligten die Kunden eher Takeaway benutzen. Übereinstimmung ergibt sich auch in der aussage, dass Takeaway angeboten wird, weil das Produkt nicht vor Ort konsumierbar ist, allerdings stimmt keiner der Beteiligten darin überein, dass sie Takeaway anbieten, weil ihre Produkte nicht vor Ort im Restaurant bestell - und konsumierbar sind.
 
 # Fazit
+Unsere Forschungsfrage lässt sich in beiden Fällen, sowohl bei den Kunden als auch bei den Gastronomen mit einem NEIN beantworten. Die Forschung an diesem Thema lieferte uns trotzdem wichtige Daten, Einblicke und Eindrücke über die Entwicklungen, welche (nicht) beobachtbar sind.
+
+Unsere Auswertungen mit hilfe der linearen Regression zeigen unter anderem, dass es mit dem Beginn der Coronakrise durchaus zu Veränderungen gekommen ist. Diese erfolgen allerdings in solch einem geringen Umfang, dass deren Auswirkungen nicht signifikant sind.
 
