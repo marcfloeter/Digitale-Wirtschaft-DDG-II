@@ -115,7 +115,7 @@ Auf der zweiten Abbildung ist erkennbar, dass die Mehrheit der Befragten bereits
 
 <img src="Abbildungen/Crn_Knf_Abb_3.png">
 
-Abbildung 3: Vergleich der Nutzungsintensität von Takeaways vor und nach der Coronapandemie. Vergleich zwischen der Intensität monatlicher Nutzung von Lieferdienst gegen Takeaway anhand aller Befragten<br/>
+Abbildung 3: Vergleich der Nutzungsintensität zwischen Takeaways und Lieferdienst anhand aller Befragten<br/>
 
 
 
@@ -139,7 +139,7 @@ Die Hälfte unserer Befragten bestellte seit der Coronapandemie häufiger Essen 
 
 <img src="Abbildungen/Crn_Knf_Abb_6.png">
 
-Abbildung 6. Vergleich zwischen monatlicher Nutzung von Lieferdienst und Takeaways
+Abbildung 6. Nutzungsmotivation von Lieferdienst, Kochbox und Takeaways
 
 Bequemlichkeit und Zeitersparnis sind die Hauptgründe, warum Benutzer von Online-Essenlieferdiensten ihr Essen über diese Dienste bestellen (Abbildung 6). Unsere Befragten stammen zum größten Teil aus berufstätigen bzw. noch im Studium befindlichen Altersgruppen, mit einem Durchschnittsalter von 27,36 Jahren. Darüber hinaus arbeiten die meisten von ihnen als Studenten und/oder sind Vollzeit angestellt. Daher verbringen sie ihre Zeit meistens damit zu arbeiten oder zu studieren, anstatt Essen zu kochen. Aus der dritten Abbildung geht hervor, dass die meisten Befragten die Verwendung von Takeaways gegenüber Lieferservices bevorzugen. Wenn sie jedoch keine Zeit haben, ihr Essen abzuholen, ist ein Lieferservice der beste Ersatz für dieses Problem. Der Grund für die Zeitersparnis ist wohl sinnvoll, wenn wir uns an diesen Daten orientieren. Das Bestellen von Speisen ist zeitsparender als das Kochen ihrer eigenen Speisen. 80% der Befragten nutzen Lieferdienste, um sich zum Abendessen etwas zu bestellen. Dies lässt sich damit erklären, dass sich die Nutzung von Lieferservices bequem anfühlt, wenn sich die Befragten aufgrund täglicher und geschäftiger Aktivitäten müde fühlen, was dazu führt, dass es nicht möglich ist Takeaways zu verwenden oder sich das Essen selbst zu kochen. Außerdem bieten Online-Lieferservices viele Auswahlmöglichkeiten für diverse Speisen, sodass die Nutzung dieses Dienstes eine Variation der Mahlzeit bietet. Seit Beginn der Coronapandemie sind die Befragten, trotz der Existenz solcher Services, beim Einkauf ihres Lebensmittels nicht zu Zustelldiensten (z.B. Kochbox) umgestiegen. Sie kaufen weiterhin in Supermärkten ein und glauben, dass die vorhandenen Hygienemaßnahmen ausreichen, um die Übertragung des Virus zu verhindern.
 
