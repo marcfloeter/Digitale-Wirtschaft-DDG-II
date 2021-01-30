@@ -33,9 +33,9 @@ Diese Forschungsfrage ist vom übergeordneten Thema "Digitale Wirtschaft" abgele
 Der erste Plan, sich auf die Erforschung des neuartigen Konzeptes der "Cloud Kitchen" zu beschränken, wurde aufgrund mangelnder Fakten - und Datenlage folglich auf den gesamten Bereich der Gastronomie erweitert. Der alte und erste Plan ist dennoch [hier]( https://github.com/marcfloeter/Digitale-Wirtschaft-DDG-II/blob/main/Material%20-%20Sontiges/Projektu%CC%88bersicht%20Alt.docx) beigefügt.
 
 ## Glossar
-Zuerst sind ein paar der immer wieder aufgegriffenen Schlagworte dieses Berichtes zu klären.
+Zuerst sind ein paar der häufig vorkommende Schlagworte dieses Berichtes zu klären.
 
-(Essens-)Lieferdienst: Ein von individuellen Restaurant(ketten) oder restaurantunabhängigen Unternehmen angebotener Service, bei dem Sie ihr Essen online oder per Telefon bestellen können, welcher Ihnen ihr Essen vom Restaurant nach Hause oder an einen anderen vereinbarten Ort liefert 
+(Essens-)Lieferdienst: Ein von individuellen Restaurant(ketten) oder restaurantunabhängigen Unternehmen angebotener Service, bei dem Sie ihr Essen online (Website oder App) oder per Telefon bestellen können, welcher Ihnen ihr Essen vom Restaurant nach Hause oder an einen anderen vereinbarten Ort liefert. 
 
 Takeaway: Bei dieser Methode bestellen Sie sich das Essen entweder vor Ort oder aus der Distanz (online, Telefon), Sie müssen dieses Essen selber beim Restaurant abholen.
 
@@ -43,23 +43,23 @@ Kochbox: Bei einer Kochbox werden ihnen die Zutaten und auch zumeist das Rezept 
 
 Cloud-Kitchen/Dark-Kitchen/Ghost-Kitchen bezieht sich auf Restaurantmodelle, die ihre Speisen in separaten, zum Teil mit anderen Gastronomiebetrieben geteilten Räumlichkeiten (nicht im eigenen Restaurant) zum Mitnehmen oder Liefern zubereiten.
 
-Diese Definitionen sind ebenso in den verwendeten Fragebögen zu finden.
+Diese Definitionen sind ebenso in den Glossaren der verwendeten Fragebögen zu finden.
 
 
 # Methode
 
 ## Datenerhebung
 
-Die Datenerhebung erfolgte in dieser Studie in Form zweier eigens konzipierter und anonym beantwortbarer Fragebögen, welche über Google Forms realisiert und per den Studienteilnehmern per Link zugänglich gemacht wurden.
-Der erste Fragebogen richtet sich an Nutzer von Lieferdiensten und erfragt das Verhalten der Kunden, der zweite ist an die Gastronomen gerichtet und erforscht die Veränderung der digital unterstützten Angebote und Dienste in der Gastronomie.
-Die Verbreitung dieser Fragebögen wurde privat per Mail, WhatsApp und Discord sowie durch die das Forum der Medieninformatik der Universität Regensburg durchgeführt.
+Die Datenerhebung erfolgte in dieser Studie in Form zweier, eigens konzipierter und anonym beantwortbarer Fragebögen, welche über Google Forms realisiert und den Studienteilnehmern per Link zugänglich gemacht wurden.
+Der erste Fragebogen richtet sich an Nutzer von Lieferdiensten und erfragt das Verhalten der Kunden bei der Nutzung von Lieferdiensten. Der zweite ist an die Gastronomen gerichtet und erforscht die Veränderung der digital unterstützten Angebote und Dienste in der Gastronomie.
+Die Verbreitung dieser Fragebögen wurde privat per Mail, WhatsApp, Discord und soziale Medien wie Facebook sowie durch  das Forum der Medieninformatik der Universität Regensburg durchgeführt.
 
 ## Gründe für die Wahl der Datenerhebungsmethode
 
-Für diese Art der Datenerhebung haben wir uns aus verschiedenen umstandsbedingten Gründen entschieden. Onlinefragebögen sind in der aktuell nach wie vor anhaltenden Lockdownsituation und auch allgemein eine passende Methode um mit vergleichsweise wenig Aufwand eine breite Masse zu befragen. Das ist in unserem Fall besonders wichtig, da dies ein Thema ist, welches auf Kundenseite enorm viele Menschen im Alltag betrifft. Diese Masse kann nicht durch wenige ausgewählte Personen vertreten werden. Es aufgrund der Kontaktbeschränkungen nicht möglich, viele Menschen physisch anzutreffen und die Zeit für diese Forschung eng begrenzt. 
-Ebenso ist die Beantwortung der Fragebögen zeitlich von uns selbst unabhängig. Die Testpersonen können die Bögen ausfüllen wann sie wollen und können, was und noch mehr Flexibilität und mehr Antworten erbracht hat. 
-Ein weiterer Grund für die Wahl der Datenerhebung war die Vermeidung von Datenschutzproblemen. Der Datenschutz wurde über die vollkommen anonyme Gestaltung der Fragebogen garantiert.
-Eine Auswertung anhand bereits existierender Arbeiten und Daten war mangels Forschungsarbeiten und zuverlässiger Quellen zu diesem sehr speziellen und neuen Forschungsgebiet ebenso nicht lohnend.
+Für diese Art der Datenerhebung haben wir uns aus verschiedenen, umstandsbedingten Gründen entschieden. Onlinefragebögen sind in der aktuell nach wie vor anhaltenden Lockdownsituation und auch allgemein eine passende Methode um mit vergleichsweise wenig Aufwand eine breite Masse zu befragen. Das ist in unserem Fall besonders wichtig, da dies ein Thema ist, welches auf Kundenseite enorm viele Menschen im Alltag betrifft. Diese Masse kann nicht durch wenige ausgewählte Personen vertreten werden, da es aufgrund der Kontaktbeschränkungen nicht möglich ist, viele Menschen physisch anzutreffen und der Zeitrahmen für diese Forschung eng begrenzt war. 
+Ebenso ist die Beantwortung der Fragebögen zeitlich von uns selbst unabhängig, die Testpersonen können die Bögen ausfüllen wann sie wollen und können, was uns  mehr Flexibilität und noch mehr Antworten erbracht hat. 
+Ein weiterer Grund für die Wahl der Datenerhebung war die Vermeidung von Datenschutzproblemen, hier wurde der Datenschutz  über die vollkommen anonyme Gestaltung der Fragebögen garantiert.
+Eine Auswertung anhand bereits existierender Arbeiten und Daten war mangels Forschungsarbeiten und zuverlässiger Quellen zu diesem sehr speziellen und sehr neuem Forschungsgebiet schwierig und wenig aussichtsreich.
 
 ## Detailliertere Beschreibung der Fragebögen
 
