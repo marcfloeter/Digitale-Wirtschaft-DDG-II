@@ -75,7 +75,7 @@ Zur weiteren Auswertung wurde neben der deskriptiven Auswertung auch eine mehrfa
 # Ergebnisse der Auswertung
 ## Kundenforschung
 
-### Erfasste Demographische Daten ###
+### Erfasste Demografische Daten ###
 
 [Antworten im Kundenfragebogen - Rohdaten](https://github.com/marcfloeter/Digitale-Wirtschaft-DDG-II/blob/main/Material%20-%20Antworten/Kundenfragebogen%20Antworten.csv)
 
@@ -92,7 +92,7 @@ Beschäftigungsstatus | 60,8% Student/Schüler; 28,4% Vollzeit ; 3,9% Teilzeit; 
 Monatliche Ausgaben für Lebensmittel | €0 bis €2500 (Durschschnittliche Ausgaben: €327,27)
 Arbeitsmodus seit der Beginn der Coronakrise | 58,8%: Homeoffice ; 26,5%: abwechselnd vor Ort und im Homeoffice, 14,7% :vor Ort
 
-Tabelle 1. Demografische Daten von Befragten
+Tabelle 1: Demografische Daten von Befragten
 
 ### Analyse der Daten ###
 
@@ -139,7 +139,7 @@ Die Hälfte unserer Befragten bestellte seit der Coronapandemie häufiger Essen 
 
 <img src="Abbildungen/Crn_Knf_Abb_6.png">
 
-Abbildung 6. Nutzungsmotivation von Lieferdienst, Kochbox und Takeaways
+Abbildung 6: Nutzungsmotivation von Lieferdienst, Kochbox und Takeaways
 
 Bequemlichkeit und Zeitersparnis sind die Hauptgründe, warum Benutzer von Online-Essenlieferdiensten ihr Essen über diese Dienste bestellen (Abbildung 6). Unsere Befragten stammen zum größten Teil aus berufstätigen bzw. noch im Studium befindlichen Altersgruppen, mit einem Durchschnittsalter von 27,36 Jahren. Darüber hinaus arbeiten die meisten von ihnen als Studenten und/oder sind Vollzeit angestellt. Daher verbringen sie ihre Zeit meistens damit zu arbeiten oder zu studieren, anstatt Essen zu kochen. Aus der dritten Abbildung geht hervor, dass die meisten Befragten die Verwendung von Takeaways gegenüber Lieferservices bevorzugen. Wenn sie jedoch keine Zeit haben, ihr Essen abzuholen, ist ein Lieferservice der beste Ersatz für dieses Problem. Der Grund für die Zeitersparnis ist wohl sinnvoll, wenn wir uns an diesen Daten orientieren. Das Bestellen von Speisen ist zeitsparender als das Kochen ihrer eigenen Speisen. 80% der Befragten nutzen Lieferdienste, um sich zum Abendessen etwas zu bestellen. Dies lässt sich damit erklären, dass sich die Nutzung von Lieferservices bequem anfühlt, wenn sich die Befragten aufgrund täglicher und geschäftiger Aktivitäten müde fühlen, was dazu führt, dass es nicht möglich ist Takeaways zu verwenden oder sich das Essen selbst zu kochen. Außerdem bieten Online-Lieferservices viele Auswahlmöglichkeiten für diverse Speisen, sodass die Nutzung dieses Dienstes eine Variation der Mahlzeit bietet. Seit Beginn der Coronapandemie sind die Befragten, trotz der Existenz solcher Services, beim Einkauf ihres Lebensmittels nicht zu Zustelldiensten (z.B. Kochbox) umgestiegen. Sie kaufen weiterhin in Supermärkten ein und glauben, dass die vorhandenen Hygienemaßnahmen ausreichen, um die Übertragung des Virus zu verhindern.
 
@@ -151,7 +151,7 @@ VIF | Unabhängige Variable
 2.820 | Monatliche Nutzung von Takeaways
 4.232 | Alter
 
-Tabelle 2. Wenn der Wert des **variance inflation factor** (VIF) zwischen 1 und 5 liegt, ist die Multikolinearität in Ordnung
+Tabelle 2: Wenn der Wert des **variance inflation factor** (VIF) zwischen 1 und 5 liegt, ist die Multikolinearität in Ordnung
 
 Bevor eine multiple lineare Regressionsanalyse durchgeführt wird, muss ein Test zur Überprüfung der Voraussetzungen einer mehrfachen linearen Regression durchgeführt werden. Wenn ein oder zwei Voraussetzungen nicht erfüllt werden, kann die Methode der multiplen linearen Regression weiterhin verwendet werden. Wenn jedoch mehr als zwei Voraussetzungen verletzt sind, ist es ratsam, eine andere Analysemethode zu verwenden (Clusteranalyse, logistische Regression, usw.). Die grafische Überprüfung des Voraussetzungstests zeigt, dass alle unabhängige Variablen, die kontinuerlich sind, eine lineare Beziehung mit der abhängige Variablen haben. Dieser Voraussetzungstest zeigt auch, dass der Fehlerterm normal verteilt ist und es keine Autokorrelation von Fehlerverteilung gibt. Allerding gibt es eine Heteroskedastizität der Residuen. Es scheint, dass es keinen Unterschied in der Häufigkeit der Nutzung von Lieferdienst zwischen den Befragten gibt, die viel Geld pro Monat für Lebensmittel ausgeben, und denen, die wenig Geld ausgeben. Es gibt möglicherweise mehr Essenvariabilität bei denjenigen, die mehr Geld pro Monat ausgeben (z.B.: Grillen, Fine Dining, Kochen, usw.). Es könnte auch Endogenität geben, wobei viele der Befragten, die wenig Geld pro Monat für Lebensmittel ausgeben, relativ viele Lieferdienste im Monat benutzten. In diesem Kontext müssen wir beachten, dass unsere Befragten hauptsächlich Studenten sind und das Durchschnittsalter 27 Jahre beträgt. Im Fragebogen wurde leider nicht gefragt, ob sie alleine, mit Partner, Freunden, oder ihrer Familie wohnen. Es kann eine Kovarianz geben, dass die Kosten für Lieferdienstbestellungen nicht direkt durch die Befragte bezahlt wurden, sondern durch ein Familienmitglied, das mit ihnen zusammen wohnt. Schließlich gibt es keine Prädiktoren, die von den anderen Prädiktoren hoch repräsentiert werden (keine Multikolinearität, vgl. Tabelle 2).
 
@@ -177,7 +177,7 @@ Bevorzuge Lieferdienst/Takeaways als Restaurantbesuch | -0.282 | 0.754
 Kinder: 2 | -0.628 | 0.533
 Kinder: 4 | -0.135 | 0.259
 
-Tabelle 3. Übersichtstabelle der mehrfachen linearen Regression
+Tabelle 3: Übersichtstabelle der mehrfachen linearen Regression
 
 Aus den Ergebnissen der multiplen linearen Regressionsanalyse geht hervor, dass die Auswirkungen von Coronapandemie, wie Homeoffice und Lockerung der Maßnahmen, keinen signifikanten Einfluss auf die Nutzung von Lieferservices haben. Tabelle 3 informiert uns, dass Homeoffice keinen signifikanten Einfluss auf die Nutzung von Lieferservices hat. Es ist nur 1-mal wahrscheinlicher, dass eine Person einen Online-Lieferservice für Essenbestellung im Monat nutzt, wenn sie seit der Coronapandemie im Homeoffice arbeitet. 1,3-mal Wahrscheinlichkeit bedeutet, dass Homeoffice fast keine Änderung im Bezug der Nutzung von Lieferdienst bewirkt. Dies steht im Einklang mit der oben gemachten Datenanalyse und der Motivation der Befragten, dass sich ihre Nutzung von Lieferservices vor und seit Beginn der Coronakrise und Homeoffice nicht geändert hat. Die Befragten nutzen das Internet seit Beginn der Coronavirus-Krise bereits, um Essen zu bestellen.
 
@@ -192,7 +192,7 @@ Der Faktor, der die Nutzung von Lieferservices am meisten beeinflusst, ist Absch
 [Antworten im Fragebogen - Visualisiert](https://docs.google.com/forms/d/1uaF4_GDq2__eDgVVea8sRiy_BMrc4Eamde4KC8GMxTQ/edit#responses)
 
 
-### Demographische Angaben ###
+### Demografische Angaben ###
 Parameter | Resultat
 --- | ---
 n | 4 Befragte
@@ -202,6 +202,8 @@ Speisekategorie | Indonesisch/Thailändisch: 3 ; Amerikanisch: 1
 Lage des Restaurants - Stadt | Hamburg: 3 ; Regensburg: 1 
 Lage des Restaurants - regionales Umfeld | Stadtgebiet: 4
 Kapazitäten für Gäste | 51-75 Gäste: 3 Restaurants; 26-50: 1 Restaurant
+
+Tabelle 4: Demografische Angaben der Gastronomen
 
 ### Digitalisierung innerhalb der Gastronomie ### 
 
