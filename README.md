@@ -95,8 +95,7 @@ Arbeitsmodus seit der Beginn der Coronakrise | 58,8%: Homeoffice ; 26,5%: abwech
 ### Analyse der Daten ###
 
 <img src="Abbildungen/Crn_Knf_Abb_1.png">
-Abbildung 1: Vergleich der Nutzungsintensität von Online-Essenlieferdienst vor und nach der Coronapandemie.
-
+Abbildung 1: Vergleich der Nutzungsintensität von Online-Essenlieferdienst vor und nach der Coronapandemie<br/>
 
 Aus Abbildung 1 ist ersichtlich, dass die Mehrheit der Befragten bereits vor Beginn der Coronakrise Online-Lieferservices benutzen. Viele von ihnen haben seit Beginn der Coronapandemie Lieferservices häufiger in Anspruch genommen, aber ein Großteil der Intensität der Lieferdienstnutzung änderte sich nach dem Start der Coronapandemie nicht.
 In der Gruppe der Probanden, die vor der Coronakrise keine Lieferservices in Anspruch nahmen, begannen viele von ihnen mit der Nutzung von Lieferservices als die Krise begann. 
@@ -104,26 +103,26 @@ Die meisten von ihnen nutzen jedoch trotz der Pandemie weiterhin keine Lieferser
 
 
 <img src="Abbildungen/Crn_Knf_Abb_2.png">
-Abbildung 2: Vergleich der Nutzungsintensität von Takeaways vor und nach der Coronapandemie.
+Abbildung 2: Vergleich der Nutzungsintensität von Takeaways vor und nach der Coronapandemie<br/>
 
 
 Auf der zweiten Abbildung ist erkennbar, dass die Mehrheit der Befragten bereits vor der Coronapandemie Takeaways benutzt hat. Die Häufigkeit ihrer Nutzung ist sowohl bevor als auch seit Beginn der Coronapandemie größtenteils weitgehend unverändert. In der Zwischenzeit ist die Hälfte der Befragten, die vor Coronakrise keine Takeaways genutzt haben, seit Pandemiebeginn auf diesen Service umgestiegen. Fast alle Befragten bevorzugen lieber Takeaway als Lieferdienste für ihre Essenbestellung. Wenn sie Takeaway verwendet haben, ist es meistens weniger wahrscheinlich, dass Online-Essenlieferservice verwendet werden (vgl. hierzu Abbildung 3).
 
 
 <img src="Abbildungen/Crn_Knf_Abb_3.png">
-Abbildung 3: Vergleich der Nutzungsintensität von Takeaways vor und nach der Coronapandemie.Vergleich zwischen der Intensität monatlicher Nutzung von Lieferdienst gegen Takeaway anhand aller Befragten.
+Abbildung 3: Vergleich der Nutzungsintensität von Takeaways vor und nach der Coronapandemie.Vergleich zwischen der Intensität monatlicher Nutzung von Lieferdienst gegen Takeaway anhand aller Befragten<br/>
 
 
 
 <img src="Abbildungen/Crn_Knf_Abb_4.png">
-Abbildung 4: Vergleich der Arten von Online-Lieferservices und den Arten von Plattformen, die bei der Online-Essenbestellung am häufigsten verwendet werden.
+Abbildung 4: Vergleich der Arten von Online-Lieferservices und den Arten von Plattformen, die bei der Online-Essenbestellung am häufigsten verwendet werden<br/>
 
 
 Aus der vierten Abbildung ist ersichtlich, dass größere Online-Lieferdienste (z.B Lieferando, Bring Butler, Lieferhase, usw.) hauptsächlich zur Bestellung genutzt werden. Die meisten Befragten verwenden  Apps , wenn sie ihr Essen über diese Art von Lieferservice bestellen, aber nicht wenige bestellen auch über die Webseite. Wenn die Befragten  sowohl größere Lieferservices als auch die hauseigenen Lieferdienst der Restaurants verwenden (z.B McDelivery, Domino’s Pizza Germany, Vapiano Lieferservice, usw.), so ist die Bestellung per App die am häufigsten genutzte Variante.
 
 
 <img src="Abbildungen/Crn_Knf_Abb_5.png">
-Abbildung 5: Vergleich der Nutzungsintensität der Plattform bei der Essenbestellung und der Zahlungsmethoden.
+Abbildung 5: Vergleich der Nutzungsintensität der Plattform bei der Essenbestellung und der Zahlungsmethoden<br/>
 
 
 Die Mehrheit der Befragten, die bei der Essenbestellung gerne Apps verwenden, ist auf bargeldlose Bezahlung umgestiegen (vgl.Abbildung 5). In der Zwischenzeit bevorzugen die meisten Befragten, die ihr Essen lieber telefonisch, vor Ort oder per Website bestellen, immer noch die Kombination von bargeldloser Bezahlung und Bargeld bei ihrer Transaktionen.
